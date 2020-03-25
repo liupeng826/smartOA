@@ -99,4 +99,4 @@ smartOA使用[Apache v2 License](http://www.apache.org/licenses/LICENSE-2.0) 协
 
 如果感觉对您有帮助，请作者喝杯咖啡吧o(￣︶￣)o  
 <img src="https://github.com/liupeng826/smartOA/raw/master/screenshot/pay/zfb.jpg" width="300" height="450" /> <br />
-<img src="https://github.com/liupeng826/smartOA/raw/master/screenshot/pay/weixin.png" width="300" height="450" />
+<img src="https://github.com/liupeng826/smartOA/raw/master/screenshot/pay/weixin.jpg" width="300" height="450" />
