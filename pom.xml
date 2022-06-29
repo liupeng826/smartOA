@@ -15,7 +15,7 @@
 		<mysql.version>5.1.35</mysql.version>
 		<mixsmart.utils.version>1.0.0</mixsmart.utils.version>
 		<jackson.version>2.5.5</jackson.version>
-		<poi.version>3.17</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<snaker.version>1.6.6</snaker.version>
 	</properties>
 	<dependencies>
